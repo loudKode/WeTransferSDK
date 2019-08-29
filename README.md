@@ -2,7 +2,10 @@
 .NET API Library for wetransfer.com
 
 
-`Download:`[https://github.com/loudKode/WeTransferSDK/releases](https://github.com/loudKode/WeTransferSDK/releases)
+`Download:`[https://github.com/loudKode/WeTransferSDK/releases](https://github.com/loudKode/WeTransferSDK/releases)<br>
+`NuGet:`
+[![NuGet](https://img.shields.io/nuget/v/DeQmaTech.WeTransferSDK.svg?style=flat-square&logo=nuget)](https://www.nuget.org/packages/DeQmaTech.WeTransferSDK)<br>
+
 # Functions:
 [https://github.com/loudKode/WeTransferSDK/blob/master/IClient.cs](https://github.com/loudKode/WeTransferSDK/blob/master/IClient.cs)
 
