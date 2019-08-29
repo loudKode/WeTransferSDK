@@ -4,10 +4,7 @@
 
 `Download:`[https://github.com/loudKode/WeTransferSDK/releases](https://github.com/loudKode/WeTransferSDK/releases)
 # Functions:
-```vb.net
-Function GetToken(Optional UserRandomID As String = Nothing) As Task(Of JSON_GetToken)
-Function Upload(FileToUpload As Object, UploadType As OClient.UploadTypes, FileName As String, UToken As String, Optional ReportCls As IProgress(Of ReportStatus) = Nothing, Optional _proxi As ProxyConfig = Nothing, Optional token As Threading.CancellationToken = Nothing) As Task(Of JSON_Finalize)
-```
+[https://github.com/loudKode/WeTransferSDK/blob/master/IClient.cs](https://github.com/loudKode/WeTransferSDK/blob/master/IClient.cs)
 
 # Example:
 ```vb.net
